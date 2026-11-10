@@ -7,6 +7,8 @@
 
 <br>
 
+<br>
+
 **Software engineer in Lyon · available now · open to software and AI engineering roles, in Lyon or remote (France).**
 
 <br>

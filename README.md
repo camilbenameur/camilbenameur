@@ -14,9 +14,9 @@
 <br>
 
 <a href="https://github.com/camilbenameur/guarded-messaging-agent"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-guarded-messaging-agent-dark.svg"><img alt="guarded-messaging-agent: an MCP server that lets an LLM read chats and draft replies, behind a send gate and a 15-case red-team eval. Python, MCP." src="assets/card-guarded-messaging-agent-light.svg" width="49%"></picture></a>
-<a href="https://github.com/camilbenameur/go-llm-stream"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-go-llm-stream-dark.svg"><img alt="go-llm-stream: parses and repairs the JSON that LLMs stream, field by field, as it arrives. Go, fuzzed, zero-allocation core." src="assets/card-go-llm-stream-light.svg" width="49%"></picture></a>
 <a href="https://github.com/camilbenameur/gatehaul"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-gatehaul-dark.svg"><img alt="gatehaul: runs a coding agent's builds and tests in your own GitHub Codespaces, as jobs that outlive the session. Go, CLI, Apache-2.0." src="assets/card-gatehaul-light.svg" width="49%"></picture></a>
 <a href="https://github.com/camilbenameur/remote-devbox-skill"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-remote-devbox-skill-dark.svg"><img alt="remote-devbox: agent coding sessions on your own Linux server, still running when your laptop is off. Shell, SSH, MCP." src="assets/card-remote-devbox-skill-light.svg" width="49%"></picture></a>
+<a href="https://github.com/camilbenameur/video-transcript-skill"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-video-transcript-skill-dark.svg"><img alt="video-transcript: full transcript and metadata from any video URL, with local Whisper. Python." src="assets/card-video-transcript-skill-light.svg" width="49%"></picture></a>
 
 <br>
 

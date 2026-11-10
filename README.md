@@ -9,10 +9,6 @@
 
 **Software engineer in Lyon · available now · open to software and AI engineering roles, in Lyon or remote (France).**
 
-- **12 months at Schneider Electric**: I built a Go + React installer for industrial software, delivered to production (SSH, offline sites, live progress over WebSockets).
-- **Products on top of LLMs**: MCP tools, guardrails and red-team tests, in Go and Python.
-- **Engineering degree in AI and software development** (Polytech Dijon, 2025) and an MSc in AI and databases.
-
 <br>
 
 <a href="https://github.com/camilbenameur/guarded-messaging-agent"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-guarded-messaging-agent-dark.svg"><img alt="guarded-messaging-agent: an MCP server that lets an LLM read chats and draft replies, behind a send gate and a 15-case red-team eval. Python, MCP." src="assets/card-guarded-messaging-agent-light.svg" width="49%"></picture></a>

@@ -25,5 +25,7 @@
   <img alt="Stack: Go, Python, TypeScript, React, Docker, Linux, GitHub Actions, PostgreSQL, Claude, MCP" src="assets/stack-light.svg" width="100%">
 </picture>
 
+<br>
+
 
 **Contact** · [LinkedIn](https://www.linkedin.com/in/camil-benameur-14a762194) · [camilbenameur.com](https://camilbenameur.com/#contact) · [Blog](https://blog.camilbenameur.com)

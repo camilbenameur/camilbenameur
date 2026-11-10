@@ -7,11 +7,11 @@
 
 <br>
 
-I write **Go and Python**, and I build **products on top of LLMs**: MCP tools, guardrails, red-team tests.
-For 12 months at **Schneider Electric** I built a Go + React installer for industrial software, delivered to production: SSH, offline sites, live progress over WebSockets.
-I hold an engineering degree in AI and software development (Polytech Dijon) and an MSc in AI and databases (Université de Bourgogne).
+**Software engineer in Lyon · available now · open to software and AI engineering roles, in Lyon or remote (France).**
 
-**Open to** software and AI engineering roles, in Lyon or remote (France).
+- **12 months at Schneider Electric**: I built a Go + React installer for industrial software, delivered to production (SSH, offline sites, live progress over WebSockets).
+- **Products on top of LLMs**: MCP tools, guardrails and red-team tests, in Go and Python.
+- **Engineering degree in AI and software development** (Polytech Dijon, 2025) and an MSc in AI and databases.
 
 <br>
 
@@ -22,6 +22,6 @@ I hold an engineering degree in AI and software development (Polytech Dijon) and
 
 <br>
 
-**Stack** · Go · Python · TypeScript / React · Docker / Podman · GitHub Actions · PostgreSQL · Linux · LLM APIs, MCP, RAG, evals
+**Stack** · Go · Python · TypeScript / React · Docker / Podman · GitHub Actions · PostgreSQL · Linux · LLM APIs, MCP, RAG, testing
 
-[camilbenameur.com](https://camilbenameur.com) · [Blog](https://blog.camilbenameur.com) · [LinkedIn](https://www.linkedin.com/in/camil-benameur-14a762194)
+**Contact** · [LinkedIn](https://www.linkedin.com/in/camil-benameur-14a762194) · [camilbenameur.com](https://camilbenameur.com/#contact) · [Blog](https://blog.camilbenameur.com)
